@@ -1,2 +1,0 @@
-# cobol-prog
-cobol programs
