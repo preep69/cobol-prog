@@ -76,7 +76,7 @@ is working day (Mon, tues,wed,thu, fri) or holiday (Sat,sun).
 Use 88 level condition variable and evaluate statement.
 
 IDENTIFICATION DIVISION.
-PROGRAM-ID. HELLO-WORLD.
+PROGRAM-ID. WEEK.
 DATA DIVISION.
     WORKING-STORAGE SECTION.
         
