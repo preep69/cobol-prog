@@ -41,7 +41,7 @@ display the sum of even digits and odd digits
 
 
        IDENTIFICATION DIVISION.                                         00010001
-       PROGRAM-ID. COB001.                                              00020001
+       PROGRAM-ID. COB002.                                              00020001
        ENVIRONMENT DIVISION.                                            00030001
        DATA DIVISION.                                                   00040001
        WORKING-STORAGE SECTION.                                         00050001
